@@ -1,0 +1,390 @@
+
+Sentence #1 (14 tokens):
+An elephant is very clever, obedient and biggest animal on the earth.
+
+Tokens:
+[Text=An CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=DT Lemma=a]
+[Text=elephant CharacterOffsetBegin=3 CharacterOffsetEnd=11 PartOfSpeech=NN Lemma=elephant]
+[Text=is CharacterOffsetBegin=12 CharacterOffsetEnd=14 PartOfSpeech=VBZ Lemma=be]
+[Text=very CharacterOffsetBegin=15 CharacterOffsetEnd=19 PartOfSpeech=RB Lemma=very]
+[Text=clever CharacterOffsetBegin=20 CharacterOffsetEnd=26 PartOfSpeech=JJ Lemma=clever]
+[Text=, CharacterOffsetBegin=26 CharacterOffsetEnd=27 PartOfSpeech=, Lemma=,]
+[Text=obedient CharacterOffsetBegin=28 CharacterOffsetEnd=36 PartOfSpeech=JJ Lemma=obedient]
+[Text=and CharacterOffsetBegin=37 CharacterOffsetEnd=40 PartOfSpeech=CC Lemma=and]
+[Text=biggest CharacterOffsetBegin=41 CharacterOffsetEnd=48 PartOfSpeech=JJS Lemma=biggest]
+[Text=animal CharacterOffsetBegin=49 CharacterOffsetEnd=55 PartOfSpeech=NN Lemma=animal]
+[Text=on CharacterOffsetBegin=56 CharacterOffsetEnd=58 PartOfSpeech=IN Lemma=on]
+[Text=the CharacterOffsetBegin=59 CharacterOffsetEnd=62 PartOfSpeech=DT Lemma=the]
+[Text=earth CharacterOffsetBegin=63 CharacterOffsetEnd=68 PartOfSpeech=NN Lemma=earth]
+[Text=. CharacterOffsetBegin=68 CharacterOffsetEnd=69 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (9 tokens):
+It is found in the Africa and Asia.
+
+Tokens:
+[Text=It CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=PRP Lemma=it]
+[Text=is CharacterOffsetBegin=3 CharacterOffsetEnd=5 PartOfSpeech=VBZ Lemma=be]
+[Text=found CharacterOffsetBegin=6 CharacterOffsetEnd=11 PartOfSpeech=VBN Lemma=find]
+[Text=in CharacterOffsetBegin=12 CharacterOffsetEnd=14 PartOfSpeech=IN Lemma=in]
+[Text=the CharacterOffsetBegin=15 CharacterOffsetEnd=18 PartOfSpeech=DT Lemma=the]
+[Text=Africa CharacterOffsetBegin=19 CharacterOffsetEnd=25 PartOfSpeech=NNP Lemma=Africa]
+[Text=and CharacterOffsetBegin=26 CharacterOffsetEnd=29 PartOfSpeech=CC Lemma=and]
+[Text=Asia CharacterOffsetBegin=30 CharacterOffsetEnd=34 PartOfSpeech=NNP Lemma=Asia]
+[Text=. CharacterOffsetBegin=34 CharacterOffsetEnd=35 PartOfSpeech=. Lemma=.]
+
+Sentence #2 (13 tokens):
+Generally, it is found in grey color however white in Thailand.
+
+Tokens:
+[Text=Generally CharacterOffsetBegin=36 CharacterOffsetEnd=45 PartOfSpeech=RB Lemma=generally]
+[Text=, CharacterOffsetBegin=45 CharacterOffsetEnd=46 PartOfSpeech=, Lemma=,]
+[Text=it CharacterOffsetBegin=47 CharacterOffsetEnd=49 PartOfSpeech=PRP Lemma=it]
+[Text=is CharacterOffsetBegin=50 CharacterOffsetEnd=52 PartOfSpeech=VBZ Lemma=be]
+[Text=found CharacterOffsetBegin=53 CharacterOffsetEnd=58 PartOfSpeech=VBN Lemma=find]
+[Text=in CharacterOffsetBegin=59 CharacterOffsetEnd=61 PartOfSpeech=IN Lemma=in]
+[Text=grey CharacterOffsetBegin=62 CharacterOffsetEnd=66 PartOfSpeech=JJ Lemma=grey]
+[Text=color CharacterOffsetBegin=67 CharacterOffsetEnd=72 PartOfSpeech=NN Lemma=color]
+[Text=however CharacterOffsetBegin=73 CharacterOffsetEnd=80 PartOfSpeech=RB Lemma=however]
+[Text=white CharacterOffsetBegin=81 CharacterOffsetEnd=86 PartOfSpeech=JJ Lemma=white]
+[Text=in CharacterOffsetBegin=87 CharacterOffsetEnd=89 PartOfSpeech=IN Lemma=in]
+[Text=Thailand CharacterOffsetBegin=90 CharacterOffsetEnd=98 PartOfSpeech=NNP Lemma=Thailand]
+[Text=. CharacterOffsetBegin=98 CharacterOffsetEnd=99 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (13 tokens):
+Female elephants are used to live in groups however male elephants solitary.
+
+Tokens:
+[Text=Female CharacterOffsetBegin=0 CharacterOffsetEnd=6 PartOfSpeech=JJ Lemma=female]
+[Text=elephants CharacterOffsetBegin=7 CharacterOffsetEnd=16 PartOfSpeech=NNS Lemma=elephant]
+[Text=are CharacterOffsetBegin=17 CharacterOffsetEnd=20 PartOfSpeech=VBP Lemma=be]
+[Text=used CharacterOffsetBegin=21 CharacterOffsetEnd=25 PartOfSpeech=VBN Lemma=use]
+[Text=to CharacterOffsetBegin=26 CharacterOffsetEnd=28 PartOfSpeech=TO Lemma=to]
+[Text=live CharacterOffsetBegin=29 CharacterOffsetEnd=33 PartOfSpeech=VB Lemma=live]
+[Text=in CharacterOffsetBegin=34 CharacterOffsetEnd=36 PartOfSpeech=IN Lemma=in]
+[Text=groups CharacterOffsetBegin=37 CharacterOffsetEnd=43 PartOfSpeech=NNS Lemma=group]
+[Text=however CharacterOffsetBegin=44 CharacterOffsetEnd=51 PartOfSpeech=RB Lemma=however]
+[Text=male CharacterOffsetBegin=52 CharacterOffsetEnd=56 PartOfSpeech=JJ Lemma=male]
+[Text=elephants CharacterOffsetBegin=57 CharacterOffsetEnd=66 PartOfSpeech=NNS Lemma=elephant]
+[Text=solitary CharacterOffsetBegin=67 CharacterOffsetEnd=75 PartOfSpeech=JJ Lemma=solitary]
+[Text=. CharacterOffsetBegin=75 CharacterOffsetEnd=76 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (9 tokens):
+Elephants live long life more than 100 years.
+
+Tokens:
+[Text=Elephants CharacterOffsetBegin=0 CharacterOffsetEnd=9 PartOfSpeech=NNS Lemma=elephant]
+[Text=live CharacterOffsetBegin=10 CharacterOffsetEnd=14 PartOfSpeech=VBP Lemma=live]
+[Text=long CharacterOffsetBegin=15 CharacterOffsetEnd=19 PartOfSpeech=JJ Lemma=long]
+[Text=life CharacterOffsetBegin=20 CharacterOffsetEnd=24 PartOfSpeech=NN Lemma=life]
+[Text=more CharacterOffsetBegin=25 CharacterOffsetEnd=29 PartOfSpeech=RBR Lemma=more]
+[Text=than CharacterOffsetBegin=30 CharacterOffsetEnd=34 PartOfSpeech=IN Lemma=than]
+[Text=100 CharacterOffsetBegin=35 CharacterOffsetEnd=38 PartOfSpeech=CD Lemma=100]
+[Text=years CharacterOffsetBegin=39 CharacterOffsetEnd=44 PartOfSpeech=NNS Lemma=year]
+[Text=. CharacterOffsetBegin=44 CharacterOffsetEnd=45 PartOfSpeech=. Lemma=.]
+
+Sentence #2 (14 tokens):
+They generally live in jungles however also seen in the zoo and circus.
+
+Tokens:
+[Text=They CharacterOffsetBegin=46 CharacterOffsetEnd=50 PartOfSpeech=PRP Lemma=they]
+[Text=generally CharacterOffsetBegin=51 CharacterOffsetEnd=60 PartOfSpeech=RB Lemma=generally]
+[Text=live CharacterOffsetBegin=61 CharacterOffsetEnd=65 PartOfSpeech=VBP Lemma=live]
+[Text=in CharacterOffsetBegin=66 CharacterOffsetEnd=68 PartOfSpeech=IN Lemma=in]
+[Text=jungles CharacterOffsetBegin=69 CharacterOffsetEnd=76 PartOfSpeech=NNS Lemma=jungle]
+[Text=however CharacterOffsetBegin=77 CharacterOffsetEnd=84 PartOfSpeech=RB Lemma=however]
+[Text=also CharacterOffsetBegin=85 CharacterOffsetEnd=89 PartOfSpeech=RB Lemma=also]
+[Text=seen CharacterOffsetBegin=90 CharacterOffsetEnd=94 PartOfSpeech=VBN Lemma=see]
+[Text=in CharacterOffsetBegin=95 CharacterOffsetEnd=97 PartOfSpeech=IN Lemma=in]
+[Text=the CharacterOffsetBegin=98 CharacterOffsetEnd=101 PartOfSpeech=DT Lemma=the]
+[Text=zoo CharacterOffsetBegin=102 CharacterOffsetEnd=105 PartOfSpeech=NN Lemma=zoo]
+[Text=and CharacterOffsetBegin=106 CharacterOffsetEnd=109 PartOfSpeech=CC Lemma=and]
+[Text=circus CharacterOffsetBegin=110 CharacterOffsetEnd=116 PartOfSpeech=NN Lemma=circus]
+[Text=. CharacterOffsetBegin=116 CharacterOffsetEnd=117 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (13 tokens):
+They can grow around 11 feet in height and 13,000 pounds weight.
+
+Tokens:
+[Text=They CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=PRP Lemma=they]
+[Text=can CharacterOffsetBegin=5 CharacterOffsetEnd=8 PartOfSpeech=MD Lemma=can]
+[Text=grow CharacterOffsetBegin=9 CharacterOffsetEnd=13 PartOfSpeech=VB Lemma=grow]
+[Text=around CharacterOffsetBegin=14 CharacterOffsetEnd=20 PartOfSpeech=IN Lemma=around]
+[Text=11 CharacterOffsetBegin=21 CharacterOffsetEnd=23 PartOfSpeech=CD Lemma=11]
+[Text=feet CharacterOffsetBegin=24 CharacterOffsetEnd=28 PartOfSpeech=NNS Lemma=foot]
+[Text=in CharacterOffsetBegin=29 CharacterOffsetEnd=31 PartOfSpeech=IN Lemma=in]
+[Text=height CharacterOffsetBegin=32 CharacterOffsetEnd=38 PartOfSpeech=NN Lemma=height]
+[Text=and CharacterOffsetBegin=39 CharacterOffsetEnd=42 PartOfSpeech=CC Lemma=and]
+[Text=13,000 CharacterOffsetBegin=43 CharacterOffsetEnd=49 PartOfSpeech=CD Lemma=13,000]
+[Text=pounds CharacterOffsetBegin=50 CharacterOffsetEnd=56 PartOfSpeech=NNS Lemma=pound]
+[Text=weight CharacterOffsetBegin=57 CharacterOffsetEnd=63 PartOfSpeech=NN Lemma=weight]
+[Text=. CharacterOffsetBegin=63 CharacterOffsetEnd=64 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (18 tokens):
+The largest elephant ever has been measured as 13 feet in height and 24,000 pounds in weight.
+
+Tokens:
+[Text=The CharacterOffsetBegin=0 CharacterOffsetEnd=3 PartOfSpeech=DT Lemma=the]
+[Text=largest CharacterOffsetBegin=4 CharacterOffsetEnd=11 PartOfSpeech=JJS Lemma=largest]
+[Text=elephant CharacterOffsetBegin=12 CharacterOffsetEnd=20 PartOfSpeech=NN Lemma=elephant]
+[Text=ever CharacterOffsetBegin=21 CharacterOffsetEnd=25 PartOfSpeech=RB Lemma=ever]
+[Text=has CharacterOffsetBegin=26 CharacterOffsetEnd=29 PartOfSpeech=VBZ Lemma=have]
+[Text=been CharacterOffsetBegin=30 CharacterOffsetEnd=34 PartOfSpeech=VBN Lemma=be]
+[Text=measured CharacterOffsetBegin=35 CharacterOffsetEnd=43 PartOfSpeech=VBN Lemma=measure]
+[Text=as CharacterOffsetBegin=44 CharacterOffsetEnd=46 PartOfSpeech=IN Lemma=as]
+[Text=13 CharacterOffsetBegin=47 CharacterOffsetEnd=49 PartOfSpeech=CD Lemma=13]
+[Text=feet CharacterOffsetBegin=50 CharacterOffsetEnd=54 PartOfSpeech=NNS Lemma=foot]
+[Text=in CharacterOffsetBegin=55 CharacterOffsetEnd=57 PartOfSpeech=IN Lemma=in]
+[Text=height CharacterOffsetBegin=58 CharacterOffsetEnd=64 PartOfSpeech=NN Lemma=height]
+[Text=and CharacterOffsetBegin=65 CharacterOffsetEnd=68 PartOfSpeech=CC Lemma=and]
+[Text=24,000 CharacterOffsetBegin=69 CharacterOffsetEnd=75 PartOfSpeech=CD Lemma=24,000]
+[Text=pounds CharacterOffsetBegin=76 CharacterOffsetEnd=82 PartOfSpeech=NNS Lemma=pound]
+[Text=in CharacterOffsetBegin=83 CharacterOffsetEnd=85 PartOfSpeech=IN Lemma=in]
+[Text=weight CharacterOffsetBegin=86 CharacterOffsetEnd=92 PartOfSpeech=NN Lemma=weight]
+[Text=. CharacterOffsetBegin=92 CharacterOffsetEnd=93 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (17 tokens):
+An individual elephant can eat 400 pounds of food and drink 30 gallons of water daily.
+
+Tokens:
+[Text=An CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=DT Lemma=a]
+[Text=individual CharacterOffsetBegin=3 CharacterOffsetEnd=13 PartOfSpeech=JJ Lemma=individual]
+[Text=elephant CharacterOffsetBegin=14 CharacterOffsetEnd=22 PartOfSpeech=NN Lemma=elephant]
+[Text=can CharacterOffsetBegin=23 CharacterOffsetEnd=26 PartOfSpeech=MD Lemma=can]
+[Text=eat CharacterOffsetBegin=27 CharacterOffsetEnd=30 PartOfSpeech=VB Lemma=eat]
+[Text=400 CharacterOffsetBegin=31 CharacterOffsetEnd=34 PartOfSpeech=CD Lemma=400]
+[Text=pounds CharacterOffsetBegin=35 CharacterOffsetEnd=41 PartOfSpeech=NNS Lemma=pound]
+[Text=of CharacterOffsetBegin=42 CharacterOffsetEnd=44 PartOfSpeech=IN Lemma=of]
+[Text=food CharacterOffsetBegin=45 CharacterOffsetEnd=49 PartOfSpeech=NN Lemma=food]
+[Text=and CharacterOffsetBegin=50 CharacterOffsetEnd=53 PartOfSpeech=CC Lemma=and]
+[Text=drink CharacterOffsetBegin=54 CharacterOffsetEnd=59 PartOfSpeech=NN Lemma=drink]
+[Text=30 CharacterOffsetBegin=60 CharacterOffsetEnd=62 PartOfSpeech=CD Lemma=30]
+[Text=gallons CharacterOffsetBegin=63 CharacterOffsetEnd=70 PartOfSpeech=NNS Lemma=gallon]
+[Text=of CharacterOffsetBegin=71 CharacterOffsetEnd=73 PartOfSpeech=IN Lemma=of]
+[Text=water CharacterOffsetBegin=74 CharacterOffsetEnd=79 PartOfSpeech=NN Lemma=water]
+[Text=daily CharacterOffsetBegin=80 CharacterOffsetEnd=85 PartOfSpeech=RB Lemma=daily]
+[Text=. CharacterOffsetBegin=85 CharacterOffsetEnd=86 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (10 tokens):
+Elephant skin becomes one inch thick however very sensitive.
+
+Tokens:
+[Text=Elephant CharacterOffsetBegin=0 CharacterOffsetEnd=8 PartOfSpeech=NN Lemma=elephant]
+[Text=skin CharacterOffsetBegin=9 CharacterOffsetEnd=13 PartOfSpeech=NN Lemma=skin]
+[Text=becomes CharacterOffsetBegin=14 CharacterOffsetEnd=21 PartOfSpeech=VBZ Lemma=become]
+[Text=one CharacterOffsetBegin=22 CharacterOffsetEnd=25 PartOfSpeech=CD Lemma=one]
+[Text=inch CharacterOffsetBegin=26 CharacterOffsetEnd=30 PartOfSpeech=NN Lemma=inch]
+[Text=thick CharacterOffsetBegin=31 CharacterOffsetEnd=36 PartOfSpeech=JJ Lemma=thick]
+[Text=however CharacterOffsetBegin=37 CharacterOffsetEnd=44 PartOfSpeech=RB Lemma=however]
+[Text=very CharacterOffsetBegin=45 CharacterOffsetEnd=49 PartOfSpeech=RB Lemma=very]
+[Text=sensitive CharacterOffsetBegin=50 CharacterOffsetEnd=59 PartOfSpeech=JJ Lemma=sensitive]
+[Text=. CharacterOffsetBegin=59 CharacterOffsetEnd=60 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (15 tokens):
+They can hear each other’s sound from long distance around 5 miles away.
+
+Tokens:
+[Text=They CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=PRP Lemma=they]
+[Text=can CharacterOffsetBegin=5 CharacterOffsetEnd=8 PartOfSpeech=MD Lemma=can]
+[Text=hear CharacterOffsetBegin=9 CharacterOffsetEnd=13 PartOfSpeech=VB Lemma=hear]
+[Text=each CharacterOffsetBegin=14 CharacterOffsetEnd=18 PartOfSpeech=DT Lemma=each]
+[Text=other CharacterOffsetBegin=19 CharacterOffsetEnd=24 PartOfSpeech=JJ Lemma=other]
+[Text='s CharacterOffsetBegin=24 CharacterOffsetEnd=26 PartOfSpeech=POS Lemma='s]
+[Text=sound CharacterOffsetBegin=27 CharacterOffsetEnd=32 PartOfSpeech=NN Lemma=sound]
+[Text=from CharacterOffsetBegin=33 CharacterOffsetEnd=37 PartOfSpeech=IN Lemma=from]
+[Text=long CharacterOffsetBegin=38 CharacterOffsetEnd=42 PartOfSpeech=JJ Lemma=long]
+[Text=distance CharacterOffsetBegin=43 CharacterOffsetEnd=51 PartOfSpeech=NN Lemma=distance]
+[Text=around CharacterOffsetBegin=52 CharacterOffsetEnd=58 PartOfSpeech=IN Lemma=around]
+[Text=5 CharacterOffsetBegin=59 CharacterOffsetEnd=60 PartOfSpeech=CD Lemma=5]
+[Text=miles CharacterOffsetBegin=61 CharacterOffsetEnd=66 PartOfSpeech=NNS Lemma=mile]
+[Text=away CharacterOffsetBegin=67 CharacterOffsetEnd=71 PartOfSpeech=RB Lemma=away]
+[Text=. CharacterOffsetBegin=71 CharacterOffsetEnd=72 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (24 tokens):
+Male elephant starts living alone whenever become adult however female lives in group (oldest female of a group called as matriarch).
+
+Tokens:
+[Text=Male CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=JJ Lemma=male]
+[Text=elephant CharacterOffsetBegin=5 CharacterOffsetEnd=13 PartOfSpeech=NN Lemma=elephant]
+[Text=starts CharacterOffsetBegin=14 CharacterOffsetEnd=20 PartOfSpeech=VBZ Lemma=start]
+[Text=living CharacterOffsetBegin=21 CharacterOffsetEnd=27 PartOfSpeech=NN Lemma=living]
+[Text=alone CharacterOffsetBegin=28 CharacterOffsetEnd=33 PartOfSpeech=RB Lemma=alone]
+[Text=whenever CharacterOffsetBegin=34 CharacterOffsetEnd=42 PartOfSpeech=WRB Lemma=whenever]
+[Text=become CharacterOffsetBegin=43 CharacterOffsetEnd=49 PartOfSpeech=VBN Lemma=become]
+[Text=adult CharacterOffsetBegin=50 CharacterOffsetEnd=55 PartOfSpeech=JJ Lemma=adult]
+[Text=however CharacterOffsetBegin=56 CharacterOffsetEnd=63 PartOfSpeech=RB Lemma=however]
+[Text=female CharacterOffsetBegin=64 CharacterOffsetEnd=70 PartOfSpeech=JJ Lemma=female]
+[Text=lives CharacterOffsetBegin=71 CharacterOffsetEnd=76 PartOfSpeech=NNS Lemma=life]
+[Text=in CharacterOffsetBegin=77 CharacterOffsetEnd=79 PartOfSpeech=IN Lemma=in]
+[Text=group CharacterOffsetBegin=80 CharacterOffsetEnd=85 PartOfSpeech=NN Lemma=group]
+[Text=-LRB- CharacterOffsetBegin=86 CharacterOffsetEnd=87 PartOfSpeech=-LRB- Lemma=-lrb-]
+[Text=oldest CharacterOffsetBegin=87 CharacterOffsetEnd=93 PartOfSpeech=JJS Lemma=oldest]
+[Text=female CharacterOffsetBegin=94 CharacterOffsetEnd=100 PartOfSpeech=NN Lemma=female]
+[Text=of CharacterOffsetBegin=101 CharacterOffsetEnd=103 PartOfSpeech=IN Lemma=of]
+[Text=a CharacterOffsetBegin=104 CharacterOffsetEnd=105 PartOfSpeech=DT Lemma=a]
+[Text=group CharacterOffsetBegin=106 CharacterOffsetEnd=111 PartOfSpeech=NN Lemma=group]
+[Text=called CharacterOffsetBegin=112 CharacterOffsetEnd=118 PartOfSpeech=VBN Lemma=call]
+[Text=as CharacterOffsetBegin=119 CharacterOffsetEnd=121 PartOfSpeech=RB Lemma=as]
+[Text=matriarch CharacterOffsetBegin=122 CharacterOffsetEnd=131 PartOfSpeech=NN Lemma=matriarch]
+[Text=-RRB- CharacterOffsetBegin=131 CharacterOffsetEnd=132 PartOfSpeech=-RRB- Lemma=-rrb-]
+[Text=. CharacterOffsetBegin=132 CharacterOffsetEnd=133 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (21 tokens):
+In spite of having intelligence, excellent hearing power, and good sense of smell, elephants have poor eyesight.
+
+Tokens:
+[Text=In CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=IN Lemma=in]
+[Text=spite CharacterOffsetBegin=3 CharacterOffsetEnd=8 PartOfSpeech=NN Lemma=spite]
+[Text=of CharacterOffsetBegin=9 CharacterOffsetEnd=11 PartOfSpeech=IN Lemma=of]
+[Text=having CharacterOffsetBegin=12 CharacterOffsetEnd=18 PartOfSpeech=VBG Lemma=have]
+[Text=intelligence CharacterOffsetBegin=19 CharacterOffsetEnd=31 PartOfSpeech=NN Lemma=intelligence]
+[Text=, CharacterOffsetBegin=31 CharacterOffsetEnd=32 PartOfSpeech=, Lemma=,]
+[Text=excellent CharacterOffsetBegin=33 CharacterOffsetEnd=42 PartOfSpeech=JJ Lemma=excellent]
+[Text=hearing CharacterOffsetBegin=43 CharacterOffsetEnd=50 PartOfSpeech=NN Lemma=hearing]
+[Text=power CharacterOffsetBegin=51 CharacterOffsetEnd=56 PartOfSpeech=NN Lemma=power]
+[Text=, CharacterOffsetBegin=56 CharacterOffsetEnd=57 PartOfSpeech=, Lemma=,]
+[Text=and CharacterOffsetBegin=58 CharacterOffsetEnd=61 PartOfSpeech=CC Lemma=and]
+[Text=good CharacterOffsetBegin=62 CharacterOffsetEnd=66 PartOfSpeech=JJ Lemma=good]
+[Text=sense CharacterOffsetBegin=67 CharacterOffsetEnd=72 PartOfSpeech=NN Lemma=sense]
+[Text=of CharacterOffsetBegin=73 CharacterOffsetEnd=75 PartOfSpeech=IN Lemma=of]
+[Text=smell CharacterOffsetBegin=76 CharacterOffsetEnd=81 PartOfSpeech=NN Lemma=smell]
+[Text=, CharacterOffsetBegin=81 CharacterOffsetEnd=82 PartOfSpeech=, Lemma=,]
+[Text=elephants CharacterOffsetBegin=83 CharacterOffsetEnd=92 PartOfSpeech=NNS Lemma=elephant]
+[Text=have CharacterOffsetBegin=93 CharacterOffsetEnd=97 PartOfSpeech=VBP Lemma=have]
+[Text=poor CharacterOffsetBegin=98 CharacterOffsetEnd=102 PartOfSpeech=JJ Lemma=poor]
+[Text=eyesight CharacterOffsetBegin=103 CharacterOffsetEnd=111 PartOfSpeech=NN Lemma=eyesight]
+[Text=. CharacterOffsetBegin=111 CharacterOffsetEnd=112 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (49 tokens):
+Elephants look very attractive to kids because of its interesting features such as two giant ears, two long tusks (around 10 feet long), four pillars like legs, a huge trunk, a huge body, two small eyes, and a short tail.
+
+Tokens:
+[Text=Elephants CharacterOffsetBegin=0 CharacterOffsetEnd=9 PartOfSpeech=NNS Lemma=elephant]
+[Text=look CharacterOffsetBegin=10 CharacterOffsetEnd=14 PartOfSpeech=VBP Lemma=look]
+[Text=very CharacterOffsetBegin=15 CharacterOffsetEnd=19 PartOfSpeech=RB Lemma=very]
+[Text=attractive CharacterOffsetBegin=20 CharacterOffsetEnd=30 PartOfSpeech=JJ Lemma=attractive]
+[Text=to CharacterOffsetBegin=31 CharacterOffsetEnd=33 PartOfSpeech=TO Lemma=to]
+[Text=kids CharacterOffsetBegin=34 CharacterOffsetEnd=38 PartOfSpeech=NNS Lemma=kid]
+[Text=because CharacterOffsetBegin=39 CharacterOffsetEnd=46 PartOfSpeech=IN Lemma=because]
+[Text=of CharacterOffsetBegin=47 CharacterOffsetEnd=49 PartOfSpeech=IN Lemma=of]
+[Text=its CharacterOffsetBegin=50 CharacterOffsetEnd=53 PartOfSpeech=PRP$ Lemma=its]
+[Text=interesting CharacterOffsetBegin=54 CharacterOffsetEnd=65 PartOfSpeech=JJ Lemma=interesting]
+[Text=features CharacterOffsetBegin=66 CharacterOffsetEnd=74 PartOfSpeech=NNS Lemma=feature]
+[Text=such CharacterOffsetBegin=75 CharacterOffsetEnd=79 PartOfSpeech=JJ Lemma=such]
+[Text=as CharacterOffsetBegin=80 CharacterOffsetEnd=82 PartOfSpeech=IN Lemma=as]
+[Text=two CharacterOffsetBegin=83 CharacterOffsetEnd=86 PartOfSpeech=CD Lemma=two]
+[Text=giant CharacterOffsetBegin=87 CharacterOffsetEnd=92 PartOfSpeech=JJ Lemma=giant]
+[Text=ears CharacterOffsetBegin=93 CharacterOffsetEnd=97 PartOfSpeech=NNS Lemma=ear]
+[Text=, CharacterOffsetBegin=97 CharacterOffsetEnd=98 PartOfSpeech=, Lemma=,]
+[Text=two CharacterOffsetBegin=99 CharacterOffsetEnd=102 PartOfSpeech=CD Lemma=two]
+[Text=long CharacterOffsetBegin=103 CharacterOffsetEnd=107 PartOfSpeech=JJ Lemma=long]
+[Text=tusks CharacterOffsetBegin=108 CharacterOffsetEnd=113 PartOfSpeech=NNS Lemma=tusk]
+[Text=-LRB- CharacterOffsetBegin=114 CharacterOffsetEnd=115 PartOfSpeech=-LRB- Lemma=-lrb-]
+[Text=around CharacterOffsetBegin=115 CharacterOffsetEnd=121 PartOfSpeech=IN Lemma=around]
+[Text=10 CharacterOffsetBegin=122 CharacterOffsetEnd=124 PartOfSpeech=CD Lemma=10]
+[Text=feet CharacterOffsetBegin=125 CharacterOffsetEnd=129 PartOfSpeech=NNS Lemma=foot]
+[Text=long CharacterOffsetBegin=130 CharacterOffsetEnd=134 PartOfSpeech=RB Lemma=long]
+[Text=-RRB- CharacterOffsetBegin=134 CharacterOffsetEnd=135 PartOfSpeech=-RRB- Lemma=-rrb-]
+[Text=, CharacterOffsetBegin=135 CharacterOffsetEnd=136 PartOfSpeech=, Lemma=,]
+[Text=four CharacterOffsetBegin=137 CharacterOffsetEnd=141 PartOfSpeech=CD Lemma=four]
+[Text=pillars CharacterOffsetBegin=142 CharacterOffsetEnd=149 PartOfSpeech=NNS Lemma=pillar]
+[Text=like CharacterOffsetBegin=150 CharacterOffsetEnd=154 PartOfSpeech=IN Lemma=like]
+[Text=legs CharacterOffsetBegin=155 CharacterOffsetEnd=159 PartOfSpeech=NNS Lemma=leg]
+[Text=, CharacterOffsetBegin=159 CharacterOffsetEnd=160 PartOfSpeech=, Lemma=,]
+[Text=a CharacterOffsetBegin=161 CharacterOffsetEnd=162 PartOfSpeech=DT Lemma=a]
+[Text=huge CharacterOffsetBegin=163 CharacterOffsetEnd=167 PartOfSpeech=JJ Lemma=huge]
+[Text=trunk CharacterOffsetBegin=168 CharacterOffsetEnd=173 PartOfSpeech=NN Lemma=trunk]
+[Text=, CharacterOffsetBegin=173 CharacterOffsetEnd=174 PartOfSpeech=, Lemma=,]
+[Text=a CharacterOffsetBegin=175 CharacterOffsetEnd=176 PartOfSpeech=DT Lemma=a]
+[Text=huge CharacterOffsetBegin=177 CharacterOffsetEnd=181 PartOfSpeech=JJ Lemma=huge]
+[Text=body CharacterOffsetBegin=182 CharacterOffsetEnd=186 PartOfSpeech=NN Lemma=body]
+[Text=, CharacterOffsetBegin=186 CharacterOffsetEnd=187 PartOfSpeech=, Lemma=,]
+[Text=two CharacterOffsetBegin=188 CharacterOffsetEnd=191 PartOfSpeech=CD Lemma=two]
+[Text=small CharacterOffsetBegin=192 CharacterOffsetEnd=197 PartOfSpeech=JJ Lemma=small]
+[Text=eyes CharacterOffsetBegin=198 CharacterOffsetEnd=202 PartOfSpeech=NNS Lemma=eye]
+[Text=, CharacterOffsetBegin=202 CharacterOffsetEnd=203 PartOfSpeech=, Lemma=,]
+[Text=and CharacterOffsetBegin=204 CharacterOffsetEnd=207 PartOfSpeech=CC Lemma=and]
+[Text=a CharacterOffsetBegin=208 CharacterOffsetEnd=209 PartOfSpeech=DT Lemma=a]
+[Text=short CharacterOffsetBegin=210 CharacterOffsetEnd=215 PartOfSpeech=JJ Lemma=short]
+[Text=tail CharacterOffsetBegin=216 CharacterOffsetEnd=220 PartOfSpeech=NN Lemma=tail]
+[Text=. CharacterOffsetBegin=220 CharacterOffsetEnd=221 PartOfSpeech=. Lemma=.]
+
+Sentence #2 (12 tokens):
+It is considered that tusks are continued to grow entire life.
+
+Tokens:
+[Text=It CharacterOffsetBegin=222 CharacterOffsetEnd=224 PartOfSpeech=PRP Lemma=it]
+[Text=is CharacterOffsetBegin=225 CharacterOffsetEnd=227 PartOfSpeech=VBZ Lemma=be]
+[Text=considered CharacterOffsetBegin=228 CharacterOffsetEnd=238 PartOfSpeech=VBN Lemma=consider]
+[Text=that CharacterOffsetBegin=239 CharacterOffsetEnd=243 PartOfSpeech=IN Lemma=that]
+[Text=tusks CharacterOffsetBegin=244 CharacterOffsetEnd=249 PartOfSpeech=NNS Lemma=tusk]
+[Text=are CharacterOffsetBegin=250 CharacterOffsetEnd=253 PartOfSpeech=VBP Lemma=be]
+[Text=continued CharacterOffsetBegin=254 CharacterOffsetEnd=263 PartOfSpeech=VBN Lemma=continue]
+[Text=to CharacterOffsetBegin=264 CharacterOffsetEnd=266 PartOfSpeech=TO Lemma=to]
+[Text=grow CharacterOffsetBegin=267 CharacterOffsetEnd=271 PartOfSpeech=VB Lemma=grow]
+[Text=entire CharacterOffsetBegin=272 CharacterOffsetEnd=278 PartOfSpeech=JJ Lemma=entire]
+[Text=life CharacterOffsetBegin=279 CharacterOffsetEnd=283 PartOfSpeech=NN Lemma=life]
+[Text=. CharacterOffsetBegin=283 CharacterOffsetEnd=284 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (21 tokens):
+Trunk is used to eat food, drink water, bath, breathe, smell, carry loads, etc.
+
+Tokens:
+[Text=Trunk CharacterOffsetBegin=0 CharacterOffsetEnd=5 PartOfSpeech=NN Lemma=trunk]
+[Text=is CharacterOffsetBegin=6 CharacterOffsetEnd=8 PartOfSpeech=VBZ Lemma=be]
+[Text=used CharacterOffsetBegin=9 CharacterOffsetEnd=13 PartOfSpeech=VBN Lemma=use]
+[Text=to CharacterOffsetBegin=14 CharacterOffsetEnd=16 PartOfSpeech=TO Lemma=to]
+[Text=eat CharacterOffsetBegin=17 CharacterOffsetEnd=20 PartOfSpeech=VB Lemma=eat]
+[Text=food CharacterOffsetBegin=21 CharacterOffsetEnd=25 PartOfSpeech=NN Lemma=food]
+[Text=, CharacterOffsetBegin=25 CharacterOffsetEnd=26 PartOfSpeech=, Lemma=,]
+[Text=drink CharacterOffsetBegin=27 CharacterOffsetEnd=32 PartOfSpeech=NN Lemma=drink]
+[Text=water CharacterOffsetBegin=33 CharacterOffsetEnd=38 PartOfSpeech=NN Lemma=water]
+[Text=, CharacterOffsetBegin=38 CharacterOffsetEnd=39 PartOfSpeech=, Lemma=,]
+[Text=bath CharacterOffsetBegin=40 CharacterOffsetEnd=44 PartOfSpeech=NN Lemma=bath]
+[Text=, CharacterOffsetBegin=44 CharacterOffsetEnd=45 PartOfSpeech=, Lemma=,]
+[Text=breathe CharacterOffsetBegin=46 CharacterOffsetEnd=53 PartOfSpeech=VBP Lemma=breathe]
+[Text=, CharacterOffsetBegin=53 CharacterOffsetEnd=54 PartOfSpeech=, Lemma=,]
+[Text=smell CharacterOffsetBegin=55 CharacterOffsetEnd=60 PartOfSpeech=VBP Lemma=smell]
+[Text=, CharacterOffsetBegin=60 CharacterOffsetEnd=61 PartOfSpeech=, Lemma=,]
+[Text=carry CharacterOffsetBegin=62 CharacterOffsetEnd=67 PartOfSpeech=VBP Lemma=carry]
+[Text=loads CharacterOffsetBegin=68 CharacterOffsetEnd=73 PartOfSpeech=NNS Lemma=load]
+[Text=, CharacterOffsetBegin=73 CharacterOffsetEnd=74 PartOfSpeech=, Lemma=,]
+[Text=etc. CharacterOffsetBegin=75 CharacterOffsetEnd=78 PartOfSpeech=FW Lemma=etc.]
+[Text=. CharacterOffsetBegin=78 CharacterOffsetEnd=79 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (18 tokens):
+It is considered as elephants are very smart and never forget any event happened in their life.
+
+Tokens:
+[Text=It CharacterOffsetBegin=0 CharacterOffsetEnd=2 PartOfSpeech=PRP Lemma=it]
+[Text=is CharacterOffsetBegin=3 CharacterOffsetEnd=5 PartOfSpeech=VBZ Lemma=be]
+[Text=considered CharacterOffsetBegin=6 CharacterOffsetEnd=16 PartOfSpeech=VBN Lemma=consider]
+[Text=as CharacterOffsetBegin=17 CharacterOffsetEnd=19 PartOfSpeech=IN Lemma=as]
+[Text=elephants CharacterOffsetBegin=20 CharacterOffsetEnd=29 PartOfSpeech=NNS Lemma=elephant]
+[Text=are CharacterOffsetBegin=30 CharacterOffsetEnd=33 PartOfSpeech=VBP Lemma=be]
+[Text=very CharacterOffsetBegin=34 CharacterOffsetEnd=38 PartOfSpeech=RB Lemma=very]
+[Text=smart CharacterOffsetBegin=39 CharacterOffsetEnd=44 PartOfSpeech=JJ Lemma=smart]
+[Text=and CharacterOffsetBegin=45 CharacterOffsetEnd=48 PartOfSpeech=CC Lemma=and]
+[Text=never CharacterOffsetBegin=49 CharacterOffsetEnd=54 PartOfSpeech=RB Lemma=never]
+[Text=forget CharacterOffsetBegin=55 CharacterOffsetEnd=61 PartOfSpeech=VB Lemma=forget]
+[Text=any CharacterOffsetBegin=62 CharacterOffsetEnd=65 PartOfSpeech=DT Lemma=any]
+[Text=event CharacterOffsetBegin=66 CharacterOffsetEnd=71 PartOfSpeech=NN Lemma=event]
+[Text=happened CharacterOffsetBegin=72 CharacterOffsetEnd=80 PartOfSpeech=VBD Lemma=happen]
+[Text=in CharacterOffsetBegin=81 CharacterOffsetEnd=83 PartOfSpeech=IN Lemma=in]
+[Text=their CharacterOffsetBegin=84 CharacterOffsetEnd=89 PartOfSpeech=PRP$ Lemma=they]
+[Text=life CharacterOffsetBegin=90 CharacterOffsetEnd=94 PartOfSpeech=NN Lemma=life]
+[Text=. CharacterOffsetBegin=94 CharacterOffsetEnd=95 PartOfSpeech=. Lemma=.]
+
+Sentence #1 (10 tokens):
+They communicate to each other in very low sound.
+
+Tokens:
+[Text=They CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=PRP Lemma=they]
+[Text=communicate CharacterOffsetBegin=5 CharacterOffsetEnd=16 PartOfSpeech=VBP Lemma=communicate]
+[Text=to CharacterOffsetBegin=17 CharacterOffsetEnd=19 PartOfSpeech=TO Lemma=to]
+[Text=each CharacterOffsetBegin=20 CharacterOffsetEnd=24 PartOfSpeech=DT Lemma=each]
+[Text=other CharacterOffsetBegin=25 CharacterOffsetEnd=30 PartOfSpeech=JJ Lemma=other]
+[Text=in CharacterOffsetBegin=31 CharacterOffsetEnd=33 PartOfSpeech=IN Lemma=in]
+[Text=very CharacterOffsetBegin=34 CharacterOffsetEnd=38 PartOfSpeech=RB Lemma=very]
+[Text=low CharacterOffsetBegin=39 CharacterOffsetEnd=42 PartOfSpeech=JJ Lemma=low]
+[Text=sound CharacterOffsetBegin=43 CharacterOffsetEnd=48 PartOfSpeech=NN Lemma=sound]
+[Text=. CharacterOffsetBegin=48 CharacterOffsetEnd=49 PartOfSpeech=. Lemma=.]
